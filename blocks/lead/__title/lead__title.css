@@ -4,7 +4,7 @@
     margin: 0px auto;
     font-weight: 900;
     font-size: 96px;
-    line-height: 100px;
+    line-height: 1;
     text-align: center;
 }
 
@@ -12,8 +12,7 @@
     .lead__title {
         padding-top: 48px;
         font-size: 40px;
-        line-height: 44px;
+        line-height: 1.1;
         max-width: 288px;
-        max-height: 88px;
     }
 }
