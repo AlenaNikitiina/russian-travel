@@ -1,0 +1,28 @@
+.cover__overlay {
+    height: 100%;
+    width: 100%;
+    max-width: calc(1280px - 2 * 48px);
+    text-decoration: none;
+    color: #2A2C2F;
+}
+
+@media screen and (max-width: 1025px) {
+    .cover__overlay {
+    max-height: 640px;
+    width: 100%;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .cover__overlay {
+    max-height: 480px;
+    max-width: 768px;
+    width: 100%;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .cover__overlay {
+    width: 100%;
+    }
+}

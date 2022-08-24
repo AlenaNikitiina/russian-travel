@@ -1,0 +1,28 @@
+.place {
+    display: grid;
+    max-width: calc(1280px - 2 * 148px);
+    width: 100%;
+    padding-bottom: 80px;
+    grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 48px 40px;
+}
+
+.place:last-of-type {
+    padding-bottom: 0px;
+}
+
+@media screen and (max-width: 769px) {
+    .place {
+    grid-template-columns: minmax(320px, 340px) minmax(288px, 352px);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 48px 28px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .place {
+    display: flex;
+    flex-direction: column;
+    }
+}
