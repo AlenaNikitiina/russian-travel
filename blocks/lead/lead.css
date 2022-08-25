@@ -4,19 +4,19 @@
     max-width: calc(1280px - 2 * 148px);
     margin: 0px auto;
 }
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1024px) {
     .lead {
         margin: 0px 48px;
     }
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 768px) {
     .lead {
         margin: 0px;
     }
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 320px) {
     .lead {
         max-width: 320px;
         margin: 0px;
