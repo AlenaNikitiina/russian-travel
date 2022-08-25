@@ -21,7 +21,7 @@
 @media screen and (max-width: 769px) {
     .photo-grid__images {
     margin: 0px 24px;
-    grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(288px, 352px));
     gap: 16px 16px;
     max-width: calc(100% - 2 * 24px);
     }
