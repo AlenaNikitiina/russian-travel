@@ -10,6 +10,13 @@
     }
 }
 
+@media screen and (max-width: 769px) {
+    .photo-grid {
+    width: 100%;
+    max-width: calc(769px - 2 * 24px);
+    }
+}
+
 @media screen and (max-width: 321px) {
     .photo-grid {
     width: 100%;
