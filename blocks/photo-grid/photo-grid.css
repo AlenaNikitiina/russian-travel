@@ -30,11 +30,10 @@
     margin: 0px 24px;
     grid-template-columns: repeat(auto-fit, minmax(288px, 352px));
     gap: 16px 16px;
-    max-width: calc(100% - 2 * 24px);
     }
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 320px) {
     .photo-grid {
     width: 100%;
     margin: 0px 16px;
