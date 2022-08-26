@@ -24,8 +24,8 @@
 
 /*grid*/
 @import url(../blocks/photo-gridq/photo-gridq.css);
-@import url(../blocks/photo-grid/__item/photo-grid__item.css);
-@import url(../blocks/photo-grid/__images/photo-grid__images.css);
+@import url(../blocks/photo-gridq/__item/photo-gridq__item.css);
+@import url(../blocks/photo-gridq/__images/photo-gridq__images.css);
 
 /*places*/
 @import url(../blocks/places/places.css);
