@@ -2,10 +2,10 @@
     max-width: 720px;
     padding-top: 56px;
     margin: 0px auto;
+    text-align: center;
     font-weight: 900;
     font-size: 96px;
     line-height: 1.04;
-    text-align: center;
 }
 
 @media screen and (max-width: 1024px) {
@@ -22,9 +22,9 @@
 
 @media screen and (max-width: 320px) {
     .lead__title {
+        max-width: 288px;
         font-size: 40px;
         padding-top: 48px;
         line-height: 1.1;
-        max-width: 288px;
     }
 }
