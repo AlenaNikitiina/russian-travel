@@ -1,9 +1,9 @@
 .place__title {
+    margin: 0px 0px;
     max-width: 460px;
     font-size: 72px;
     font-weight: 900;
     line-height: 1;
-    margin: 0px 0px;
 }
 
 @media screen and (max-width: 768px) {
