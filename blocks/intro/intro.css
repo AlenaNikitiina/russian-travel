@@ -2,22 +2,22 @@
     display: flex;
     flex-direction: column;
     max-width: 984px;
-    margin: 92px auto 92px auto;
+    margin: 92px auto;
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1024px) {
     .intro {
-        margin: 92px auto 92px 48px;
+        margin: 92px 48px;
 }
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 768px) {
     .intro {
-        margin: 88px 24px 88px 24px;
+        margin: 88px 24px;
     }
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 320px) {
     .intro {
         margin: 64px 16px;
     }
