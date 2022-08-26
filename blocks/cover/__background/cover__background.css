@@ -19,9 +19,9 @@
 .cover__background::before {
   content: '';
   display: block;
+  position: absolute;
   background-color: #2A2C2F;
   opacity: 0.3;
-  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
