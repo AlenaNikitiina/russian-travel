@@ -19,7 +19,7 @@
   .photo-grid {
   width: clamp(calc(320px - 16*2px), calc(100% - 16*2px), calc(768px - 24*2px));
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  margin: 88px auto;
+  margin: 0px auto;
   column-gap: 16px;
   row-gap: 16px;
   }
