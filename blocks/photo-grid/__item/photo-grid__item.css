@@ -1,17 +1,16 @@
 .photo-grid__item {
-    width: 100%;
-    min-height: 216px;
+  width: 100%;
+  min-height: 216px;
 }
 
 @media screen and (max-width: 1024px) {
-    .photo-grid__item {
+  .photo-grid__item {
     width: 100%;
-    }
+  }
 }
 
 @media screen and (max-width: 320px) {
-    .photo-grid__item {
+  .photo-grid__item {
     width: 100%;
-    }
+  }
 }
-

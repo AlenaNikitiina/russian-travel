@@ -1,10 +1,10 @@
 .page {
-    min-width: 320px;
-    margin: 0 auto;
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-    text-rendering: optimizeLegibility;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    background-color: #2A2C2F;
-    color: white;
+  min-width: 320px;
+  margin: 0 auto;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  background-color: #2a2c2f;
+  color: white;
 }

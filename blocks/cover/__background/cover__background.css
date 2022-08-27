@@ -17,10 +17,10 @@
 }
 
 .cover__background::before {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
-  background-color: #2A2C2F;
+  background-color: #2a2c2f;
   opacity: 0.3;
   top: 0;
   right: 0;
@@ -41,14 +41,14 @@
 
 @media screen and (max-width: 768px) {
   .cover__background {
-  min-height: 480px;
-  margin: 90px auto 88px auto;
+    min-height: 480px;
+    margin: 90px auto 88px auto;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__background {
-  min-height: 200px;
-  margin: 0px auto;
+    min-height: 200px;
+    margin: 0px auto;
   }
 }
