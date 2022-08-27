@@ -14,13 +14,6 @@
   .footer {
     width: calc(100% - 2 * 24px);
     margin: 0px auto 0px;
-  }
-}
-
-@media screen and (max-width: 580px) {
-  .footer {
-    width: calc(100% - 2 * 24px);
-    margin: 88px auto 0px;
     flex-direction: column;
   }
 }
@@ -28,8 +21,6 @@
  @media screen and (max-width: 320px) {
   .footer {
     width: 100%;
-    display: flex;
-    flex-direction: column;
     align-items: flex-start;
     padding: 0px 16px 24px 16px;
     margin: 64px auto 24px;
