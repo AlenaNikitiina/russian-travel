@@ -42,7 +42,7 @@
 @media screen and (max-width: 768px) {
   .cover__background {
     min-height: 480px;
-    margin: 90px auto 88px auto;
+    margin: 90px auto 0px auto;
   }
 }
 
@@ -52,3 +52,4 @@
     margin: 0px auto;
   }
 }
+
