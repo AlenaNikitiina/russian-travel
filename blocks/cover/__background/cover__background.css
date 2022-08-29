@@ -35,20 +35,20 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1025px) {
   .cover__background {
     min-height: 640px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .cover__background {
     min-height: 480px;
     margin: 90px auto 0px auto;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 321px) {
   .cover__background {
     min-height: 200px;
     margin: 0px auto;

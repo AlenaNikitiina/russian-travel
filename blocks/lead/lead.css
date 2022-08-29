@@ -5,19 +5,19 @@
   margin: 0px auto;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1025px) {
   .lead {
     margin: 0px 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .lead {
     margin: 0px 0px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 321px) {
   .lead {
     max-width: 320px;
   }

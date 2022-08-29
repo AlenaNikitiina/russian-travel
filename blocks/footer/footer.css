@@ -10,7 +10,7 @@
   padding-bottom: 24px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .footer {
     width: calc(100% - 2 * 24px);
     margin: 88px auto 0px;
@@ -18,7 +18,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 321px) {
   .footer {
     width: 100%;
     align-items: flex-start;
