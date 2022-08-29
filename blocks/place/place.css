@@ -13,7 +13,6 @@
     grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);
     column-gap: 28px;
     row-gap: 48px;
-    margin: 0px 24px;
   }
 }
 
@@ -32,7 +31,6 @@
     row-gap: 32px;
   }
 }
-
 
 
 
@@ -77,3 +75,24 @@
   }
 }
 /**/
+
+
+
+
+/*new
+
+.place {
+  display: grid;
+  width: 100%;
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 1281px) {
+  .place {
+    grid-template-columns: minmax(440, 460px) minmax(456px, 484px);
+    column-gap: 40px;
+    row-gap: 48px;
+    margin: 0px 24px;
+  }
+}
+*/
