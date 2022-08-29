@@ -5,14 +5,20 @@
   margin: 0px auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1025px) {
   .lead__image {
-    max-height: 580px;
+    max-height: 928px;
     padding-top: 56px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 769px) {
+  .lead__image {
+    max-height: 580px;
+  }
+}
+
+@media screen and (max-width: 321px) {
   .lead__image {
     padding-top: 40px;
   }
