@@ -3,13 +3,12 @@
   margin: 92px auto;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1025x) {
   .places {
     width: clamp(calc(768px - 24 * 2px), calc(100% - 24 * 2px), calc(1024px - 48 * 2px));
-    margin: 92px 48px;
+    margin: 92px auto;
   }
 }
-
 
 
 @media screen and (max-width: 769px) {
