@@ -1,4 +1,4 @@
-places {
+.places {
   max-width: calc(1280px - 2 * 148px);
   margin: 92px auto;
 }
@@ -23,7 +23,6 @@ places {
     margin: 66px 0px;
   }
 }
-
 
 
 
@@ -59,5 +58,4 @@ places {
     margin: 64px auto 66px auto;
   }
 }
-
 */
