@@ -3,13 +3,13 @@
   min-height: 216px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1025px) {
   .photo-grid__item {
     width: 100%;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 321px) {
   .photo-grid__item {
     width: 100%;
   }
