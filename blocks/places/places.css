@@ -10,10 +10,12 @@
   }
 }
 
+
+
 @media screen and (max-width: 769px) {
   .places {
     width: clamp(320px, calc(100% - 8 * 2px), calc(768px - 24 * 2px));
-    margin: 88px auto 0px auto;
+    margin: 88px auto 90px auto;
   }
 }
 
