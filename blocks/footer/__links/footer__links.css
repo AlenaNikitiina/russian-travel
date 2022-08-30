@@ -8,7 +8,7 @@
   padding: 0px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .footer__links {
     flex-direction: column;
     margin-bottom: 48px;
