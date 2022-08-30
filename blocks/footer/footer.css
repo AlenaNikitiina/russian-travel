@@ -22,7 +22,7 @@
 @media screen and (max-width: 769px) {
   .footer {
     width: calc(100% - 2 * 24px);
-    margin: 88px auto 0px;
+    margin: 76px auto 0px;
     flex-direction: row;
   }
 }
@@ -32,6 +32,6 @@
     width: 100%;
     align-items: flex-start;
     padding: 0px 16px 24px 16px;
-    margin: 69px auto 0px;
+    margin: 67px auto 0px;
   }
 }
