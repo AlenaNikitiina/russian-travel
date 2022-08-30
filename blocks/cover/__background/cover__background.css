@@ -35,7 +35,6 @@
   opacity: 0.8;
 }
 
-
 @media screen and (max-width: 1025px) {
   .cover__background {
     min-height: 640px;
@@ -55,4 +54,3 @@
     margin: 0px auto 0px auto;
   }
 }
-

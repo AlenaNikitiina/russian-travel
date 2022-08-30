@@ -8,7 +8,6 @@
   padding: 0px;
 }
 
-
 @media screen and (max-width: 769px) {
   .intro__list {
     max-width: calc(769px - 2 * 24px);

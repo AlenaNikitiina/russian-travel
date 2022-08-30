@@ -10,7 +10,6 @@
   padding-bottom: 24px;
 }
 
-
 @media screen and (max-width: 1025px) {
   .footer {
     width: calc(100% - 2 * 48px);
@@ -18,7 +17,6 @@
     margin: 86px auto 0px;
   }
 }
-
 
 @media screen and (max-width: 769px) {
   .footer {
