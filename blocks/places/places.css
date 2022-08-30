@@ -6,14 +6,14 @@
 @media screen and (max-width: 1025x) {
   .places {
     width: clamp(calc(768px - 24 * 2px), calc(100% - 24 * 2px), calc(1024px - 48 * 2px));
-    margin: 92px auto;
+    margin: 95px auto;
   }
 }
 
 @media screen and (max-width: 769px) {
   .places {
     width: clamp(320px, calc(100% - 8 * 2px), calc(768px - 24 * 2px));
-    margin: 92px auto 0px auto;
+    margin: 95px auto 0px auto;
   }
 }
 

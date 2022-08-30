@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 769px) {
   .place__link {
-    padding:
+    line-height: 0.9;
   }
 }
 
