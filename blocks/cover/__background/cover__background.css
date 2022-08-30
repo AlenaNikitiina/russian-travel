@@ -44,14 +44,14 @@
 @media screen and (max-width: 769px) {
   .cover__background {
     min-height: 480px;
-    margin: 0px auto 0px auto;
+    margin: 10px auto 0px auto;
   }
 }
 
 @media screen and (max-width: 321px) {
   .cover__background {
     min-height: 200px;
-    margin: 10px auto 0px auto;
+    margin: 0px auto 0px auto;
   }
 }
 
