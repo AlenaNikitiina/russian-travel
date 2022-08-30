@@ -5,9 +5,9 @@
   max-width: 460px;
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 1025px) {
   .place__website {
-  padding: 0px 16px;
   }
 }
+
 
