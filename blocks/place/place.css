@@ -26,6 +26,13 @@
   }
 }
 
+@media screen and (max-width: 495px) {
+  .place {
+    grid-template-columns: 1fr;
+    row-gap: 32px;
+  }
+}
+
 @media screen and (max-width: 321px) {
   .place {
     grid-template-columns: 1fr;
