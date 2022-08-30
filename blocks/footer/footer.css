@@ -23,7 +23,7 @@
   .footer {
     width: calc(100% - 2 * 24px);
     margin: 88px auto 0px;
-    flex-direction: column;
+    flex-direction: row;
   }
 }
 
