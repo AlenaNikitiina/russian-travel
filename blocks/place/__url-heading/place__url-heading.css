@@ -8,13 +8,6 @@
   text-transform: uppercase;
 }
 
-
-@media screen and (max-width: 1280px) {
-  .place__url-heading {
-
-  }
-}
-
 @media screen and (max-width: 769px) {
   .place__url-heading {
     font-size: 12px;
