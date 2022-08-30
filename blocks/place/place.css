@@ -17,9 +17,10 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
   .place {
     grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: minmax(auto, 340px) minmax(auto, 352px);
     max-width: calc(768px - 2 * 24px);
     column-gap: 28px;
   }
