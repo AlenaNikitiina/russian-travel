@@ -6,7 +6,7 @@
 @media screen and (max-width: 1025px) {
   .places {
     width: clamp(calc(768px - 24 * 2px), calc(100% - 24 * 2px), calc(1024px - 48 * 2px));
-    margin: 95px auto 0px auto;
+    margin: 85px auto 0px auto;
   }
 }
 
