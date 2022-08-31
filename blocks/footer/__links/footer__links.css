@@ -6,11 +6,12 @@
   gap: 18px;
   margin: 0px;
   padding: 0px;
+  padding-bottom: 24px;
 }
 
 @media screen and (max-width: 769px) {
   .footer__links {
-    padding-bottom: 24px;
+
   }
 }
 
