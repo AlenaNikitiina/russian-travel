@@ -12,13 +12,13 @@
   opacity: 0.8;
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 1025px) {
   .place__link {
     line-height: 0.9;
   }
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 769px) {
   .place__link {
     padding: 0px 16px;
   }
