@@ -3,7 +3,7 @@
   max-width: 1184px;
   min-height: 740px;
   position: relative;
-  margin: 10px auto 0px;
+  margin: 0px auto;
   padding: 0px;
   display: flex;
   flex-direction: column;
@@ -38,14 +38,12 @@
 @media screen and (max-width: 1025px) {
   .cover__background {
     min-height: 640px;
-    margin: 30px auto 0px auto;
   }
 }
 
 @media screen and (max-width: 769px) {
   .cover__background {
     min-height: 480px;
-    margin: 0px auto 0px auto;
   }
 }
 

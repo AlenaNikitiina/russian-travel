@@ -6,14 +6,9 @@
   padding-bottom: 24px;
 }
 
-@media screen and (max-width: 769px) {
-  .footer__copyright {
-    line-height: 1;
-  }
-}
-
 @media screen and (max-width: 321px) {
   .footer__copyright {
     padding-top: 22px;
+    line-height: 1;
   }
 }
